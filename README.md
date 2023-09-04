@@ -15,42 +15,27 @@ This project is designed to fortify organizational security by harnessing the ca
 
 - <b> Azure Labs </b>
 
-<h2>Dashboard Screenshots:</h2>
+<h2>Splunk Screenshots:</h2>
+<p align="center">
+Dashboard: <br/>
+<img src="https://i.imgur.com/1wJFbRO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Eazvp37.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Generate Reports/Alerts: <br/>
+Reports/Alerts: <br/>
 <img src="https://imgur.com/lR6rGpc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eQxsKqb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UBHBXmD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  
-  <br />
 
-  
-  <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<p align="center">
+Attack Analysis: <br/>
+<img src="https://i.imgur.com/54yohxO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JYTewzp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qUFydLv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
 
-<!--
+ <!--
  ```diff
 - text in red
 + text in green
